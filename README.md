@@ -2,4 +2,6 @@
 
 This repo consist some Common Components And Layouts build using html and css<br>
 #Accordion
-![Accordion output](image.png)
+![Accordion output](Accordion.png)
+#Carousel
+![Carousel Output](Carousel.png)
